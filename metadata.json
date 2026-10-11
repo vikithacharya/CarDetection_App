@@ -1,0 +1,6 @@
+{
+  "name": "Car Detector",
+  "description": "AI-powered car recognition app that identifies car make, model, year, and colour with detailed visual telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

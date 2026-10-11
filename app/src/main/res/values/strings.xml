@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Detector</string>
+    <string name="subtitle">Identify any car</string>
+    <string name="no_photo">No photo yet</string>
+    <string name="no_photo_hint">Take one or pick from your gallery</string>
+    <string name="camera_btn">Camera</string>
+    <string name="gallery_btn">Gallery</string>
+    <string name="demo_btn">Sample Cars</string>
+</resources>
